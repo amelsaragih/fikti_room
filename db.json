@@ -1,0 +1,22 @@
+{
+  "rooms": [
+    { "id": 601, "floor": 6, "status": "kosong", "dosen": null, "matkul": null },
+    { "id": 602, "floor": 6, "status": "kosong", "dosen": null, "matkul": null },
+    { "id": 603, "floor": 6, "status": "kosong", "dosen": null, "matkul": null },
+    { "id": 604, "floor": 6, "status": "kosong", "dosen": null, "matkul": null },
+    { "id": 701, "floor": 7, "status": "kosong", "dosen": null, "matkul": null },
+    { "id": 702, "floor": 7, "status": "kosong", "dosen": null, "matkul": null },
+    { "id": 703, "floor": 7, "status": "kosong", "dosen": null, "matkul": null },
+    { "id": 704, "floor": 7, "status": "kosong", "dosen": null, "matkul": null },
+    { "id": 705, "floor": 7, "status": "kosong", "dosen": null, "matkul": null },
+    { "id": 706, "floor": 7, "status": "kosong", "dosen": null, "matkul": null },
+    { "id": 707, "floor": 7, "status": "kosong", "dosen": null, "matkul": null },
+    { "id": 708, "floor": 7, "status": "kosong", "dosen": null, "matkul": null }
+  ],
+  "dosens": [
+    { "id": "DSN-A", "nama": "Dosen A" },
+    { "id": "DSN-B", "nama": "Dosen B" },
+    { "id": "DSN-C", "nama": "Dosen C" },
+    { "id": "DSN-D", "nama": "Dosen D" }
+  ]
+}
